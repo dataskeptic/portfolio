@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description": "👋 Sou estudante de Ciência da Computação, autodidata e fluente em inglês, com experiência prática em Inteligência Artificial e desenvolvimento de software. Minha trajetória acadêmica e minha curiosidade me levaram a explorar diversas tecnologias de forma independente, sempre buscando aprender e aplicar novas ferramentas que possam impactar positivamente o mundo ao nosso redor. Possuo habilidades sólidas em desenvolvimento com Next.js, Django e Node.js, além de conhecimento avançado em técnicas de IA, como Processamento de Linguagem Natural (PLN), Machine Learning e Visão Computacional. Estou constantemente me atualizando nas tendências de tecnologia, pois acredito que inovação e aprendizado contínuo são fundamentais para o sucesso na área de TI. Busco uma oportunidade de estágio onde eu possa aplicar e expandir minhas habilidades, colaborar com uma equipe inovadora e contribuir para a criação de soluções que gerem impacto real. Estou comprometido com meu crescimento profissional e entusiasmado para fazer parte de um time que compartilhe a visão de transformação através da tecnologia.",
       "section_name": {
         "about": "O mnie",
         "projects": "Projekty",
