@@ -35,12 +35,19 @@ class Header extends Component {
     }, (props, prevProp) => true);
 
     return (
-      <header id="home" style={{ height: window.innerHeight - 140, display: 'block' }}>
-        <div className="row aligner" style={{height: '100%'}}>
+      <header
+        id="home"
+        style={{ height: window.innerHeight - 140, display: "block" }}
+      >
+        <div className="row aligner" style={{ height: "100%" }}>
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
-              <br/>
+              <img
+                src={`${process.env.PUBLIC_URL}/coding.png`}
+                alt="Coding"
+                className="header-icon"
+              />
+              <br />
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
               </h1>
