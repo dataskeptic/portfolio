@@ -19,18 +19,18 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Pytorch",
+          "class": "devicon-pytorch-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Scikit Learn",
+          "class": "devicon-scikitlearn-plain",
           "level": "80"
         },
         {
@@ -44,18 +44,18 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Pandas",
+          "class": "devicon-pandas-plain",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Django",
+          "class": "devicon-django-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "Docker",
+          "class": "devicon-docker-plain",
           "level": "65"
         },
         {
