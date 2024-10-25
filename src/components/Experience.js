@@ -40,9 +40,6 @@ class Experience extends Component {
             icon={<i className="fas fa-briefcase experience-icon"></i>}
             key={i}
           >
-            <div style={{ textAlign: "left", marginBottom: "4px" }}>
-              {mainTech}
-            </div>
 
             <h3
               className="vertical-timeline-element-title"
@@ -57,6 +54,7 @@ class Experience extends Component {
               {work.company}
             </h4>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
+            <p style={{ textAlign: "left" }}>{work.description}</p>
           </VerticalTimelineElement>
         );
       });

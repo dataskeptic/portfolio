@@ -34,16 +34,6 @@
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
           "name": "Pandas",
           "class": "devicon-pandas-plain",
           "level": "75"
@@ -52,6 +42,16 @@
           "name": "Django",
           "class": "devicon-django-plain",
           "level": "85"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
         },
         {
           "name": "Docker",

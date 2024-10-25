@@ -5,20 +5,19 @@
       "section_name": {
         "about": "About me",
         "projects": "Projects",
-        "skills": "Skills",
+        "skills": "Tecnical skills",
         "experience": "Experience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "PLN",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The main goal of this project is to compare the performance of different word embeddings and similarity measures on both lemmatized and stemmed forms of text. By using a variety of NLP techniques, we aim to measure similarity between words and evaluate the results for NLP tasks such as text classification, information retrieval, and clustering.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/NLP/pln.png"
         ],
-        "url": "",
+        "url": "https://github.com/dataskeptic/relatorioPIBIC/tree/main",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +34,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Jaguaracambé website",
+        "startDate": "2023",
+        "description": "Website developed using Nexjs.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Jaguaracambe/jaguaracambe.png"
+          
         ],
-        "url": "https://github.com",
+        "url": "https://www.jaguaracambe.org/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -81,38 +80,49 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Jaguaracambé",
+        "title": "Developer",
+        "years": "10.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Nexjs 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+          "Javascript",
+          "Nexjs",
+          "html",
+          "css",
+          "React"
+        ],
+        "description": "jaguaracambé is a wild animal conservation NGO, where I had the opportunity to contribute to this initiative that I admire so much. I was responsible for building their website, as well as participating in the environmental education project they coordinate. You can see the website here: https://www.jaguaracambe.org/"
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Federal University of Piauí - UFPI",
+        "title": "Undergraduate Research - Program for Scientific Initiation Scholarships",
+        "years": "07.2022 - 06.2023",
         "mainTech": [
-          "Angular 7/8"
+          "Python"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+          "Python",
+          "Scikit Learn",
+          "Pandas",
+          "SpaCy",
+          "NLTK",
+          "Gensim"
+        ],
+        "description": "I conducted research on an automatic correction system for free-text answers. The project involved analyzing existing studies in the field and implementing various similarity measurement techniques. I compared the performance of Cosine Similarity, Jaccard Index, and Word Mover's Distance using different vector space models, including Bag of Words, TF-IDF, and word embeddings."
+      },
+      {
+        "company": "Federal University of Piauí - UFPI",
+        "title": "Teaching Assistant of Data structure",
+        "years": "08.2022 - 11.2022",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Java"
+        ],
+        "description": "Graded assignments and exams, and provided feedback to students. Also provided one-on-one support to students, helping them to understand and implement data structures and algorithms. Some of the topics covered: Linked lists, Stacks, Queues, Trees and graphs, Hash tables, Heaps, Time and space  complexity, Algorithmic design."
       }
     ]
   }

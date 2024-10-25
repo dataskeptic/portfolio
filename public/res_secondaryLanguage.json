@@ -81,36 +81,49 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Jaguaracambé",
+        "title": "Desenvolvedor",
+        "years": "10.2023 - present",
         "mainTech": [
-          "React 8/9/10"
+          "Nexjs 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
+          "Javascript",
+          "Nexjs",
+          "html",
+          "css",
+          "React"
+        ],
+        "description": "Participei da criação do site da Jaguaracambé, uma ONG voltada para a preservação de animais selvagens, uma iniciativa que admiro profundamente. Contribuí para o desenvolvimento do site e atuei também em projetos de educação ambiental que a organização coordena. Você pode acessar o site aqui: https://www.jaguaracambe.org."
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Universidade Federal do Piauí - UFPI",
+        "title": "Iniciação Científica - Bolsista de Pesquisa Universidade Federal do Piauí (UFPI)",
+        "years": "07.2022 - 06.2023",
         "mainTech": [
-          "Angular 7/8"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+          "Python",
+          "Scikit Learn",
+          "Pandas",
+          "SpaCy",
+          "NLTK",
+          "Gensim"
+        ],
+        "description": "Conduzi uma pesquisa sobre correção automática para questões discursivas. O projeto envolveu a análise de trabalhos relacionados e a implementação de diferentes técnicas de medidas de similaridade. Comparei o desempenho de diversas métricas de similaridade (como Cosine Similarity, Jaccard Index e Word Mover's Distance) utilizando diferentes modelos de representação vetorial, incluindo Bag of Words, TF-IDF e word embeddings."
+      },
+      {
+        "company": "Universidade Federal do Piauí - UFPI",
+        "title": "Monitor de Estrutura de Dados ",
+        "years": "08.2022 - 11.2022",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Java"
+        ],
+        "description": "Corrigi provas e trabalhos, além de fornecer feedback para os alunos. Também ofereci suporte individualizado, ajudando-os a entender e implementar estruturas de dados e algoritmos. Alguns dos tópicos abordados incluíam: listas encadeadas, pilhas, filas, árvores e grafos, tabelas hash, heaps, análise de tempo e espaço de execução e design de algoritmos."
       }
     ]
   }
