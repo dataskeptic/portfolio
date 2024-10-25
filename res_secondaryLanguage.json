@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Olá",
+      "description": "👋 Sou estudante de Ciência da Computação, autodidata e fluente em inglês, com experiência prática em Inteligência Artificial e desenvolvimento de software. Minha trajetória acadêmica e minha curiosidade me levaram a explorar diversas tecnologias de forma independente, sempre buscando aprender e aplicar novas ferramentas que possam impactar positivamente o mundo ao nosso redor. Possuo habilidades sólidas em desenvolvimento com Next.js, Django e Node.js, além de conhecimento avançado em técnicas de IA, como Processamento de Linguagem Natural (PLN), Machine Learning e Visão Computacional. Estou constantemente me atualizando nas tendências de tecnologia, pois acredito que inovação e aprendizado contínuo são fundamentais para o sucesso na área de TI. Busco uma oportunidade de estágio onde eu possa aplicar e expandir minhas habilidades, colaborar com uma equipe inovadora e contribuir para a criação de soluções que gerem impacto real. Estou comprometido com meu crescimento profissional e entusiasmado para fazer parte de um time que compartilhe a visão de transformação através da tecnologia.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Sobre mim",
+        "projects": "Projetos",
+        "skills": "habilidades",
+        "experience": "Experiências"
       }
     },
     "projects": [
@@ -81,36 +81,49 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Jaguaracambé",
+        "title": "Desenvolvedor",
+        "years": "10.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Nexjs 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
+          "Javascript",
+          "Nexjs",
+          "html",
+          "css",
+          "React"
+        ],
+        "description": "Participei da criação do site da Jaguaracambé, uma ONG voltada para a preservação de animais selvagens, uma iniciativa que admiro profundamente. Contribuí para o desenvolvimento do site e atuei também em projetos de educação ambiental que a organização coordena. Você pode acessar o site aqui: https://www.jaguaracambe.org."
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Universidade Federal do Piauí - UFPI",
+        "title": "Iniciação Científica - Bolsista de Pesquisa Universidade Federal do Piauí (UFPI)",
+        "years": "07.2022 - 06.2023",
         "mainTech": [
-          "Angular 7/8"
+          "Python"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+          "Python",
+          "Scikit Learn",
+          "Pandas",
+          "SpaCy",
+          "NLTK",
+          "Gensim"
+        ],
+        "description": "Conduzi uma pesquisa sobre correção automática para questões discursivas. O projeto envolveu a análise de trabalhos relacionados e a implementação de diferentes técnicas de medidas de similaridade. Comparei o desempenho de diversas métricas de similaridade (como Cosine Similarity, Jaccard Index e Word Mover's Distance) utilizando diferentes modelos de representação vetorial, incluindo Bag of Words, TF-IDF e word embeddings."
+      },
+      {
+        "company": "Universidade Federal do Piauí - UFPI",
+        "title": "Monitor de Estrutura de Dados ",
+        "years": "08.2022 - 11.2022",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Java"
+        ],
+        "description": "Corrigi provas e trabalhos, além de fornecer feedback para os alunos. Também ofereci suporte individualizado, ajudando-os a entender e implementar estruturas de dados e algoritmos. Alguns dos tópicos abordados incluíam: listas encadeadas, pilhas, filas, árvores e grafos, tabelas hash, heaps, análise de tempo e espaço de execução e design de algoritmos."
       }
     ]
   }
