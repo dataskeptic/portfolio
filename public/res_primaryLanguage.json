@@ -11,8 +11,8 @@
     },
     "projects": [
       {
-        "title": "PLN",
-        "startDate": "2020",
+        "title": "Text similarity - NLP",
+        "startDate": "2022",
         "description": "The main goal of this project is to compare the performance of different word embeddings and similarity measures on both lemmatized and stemmed forms of text. By using a variety of NLP techniques, we aim to measure similarity between words and evaluate the results for NLP tasks such as text classification, information retrieval, and clustering.",
         "images": [
           "images/portfolio/NLP/pln.png"
@@ -20,16 +20,16 @@
         "url": "https://github.com/dataskeptic/relatorioPIBIC/tree/main",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-scikitlearn-plain",
+            "name": "Scikit Learn"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
           }
         ]
       },
@@ -50,30 +50,37 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Parking spot detector",
+        "startDate": "2024",
+        "description": "The project combines techniques of digital image processing to build a parking spot detector without using deep learning techniques, focusing on developing a more lightweight application.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/parking/parking.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/dataskeptic/Parking-spot-detector",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-opencv-plain",
+            "name": "OpenCV"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-numpy-plain",
+            "name": "Numpy"
           }
         ]
       }
