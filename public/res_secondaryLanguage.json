@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Olá",
-      "description": "👋 Sou estudante de Ciência da Computação, autodidata e fluente em inglês, com experiência prática em Inteligência Artificial e desenvolvimento de software. Minha trajetória acadêmica e minha curiosidade me levaram a explorar diversas tecnologias de forma independente, sempre buscando aprender e aplicar novas ferramentas que possam impactar positivamente o mundo ao nosso redor. Possuo habilidades sólidas em desenvolvimento com Next.js, Django e Node.js, além de conhecimento avançado em técnicas de IA, como Processamento de Linguagem Natural (PLN), Machine Learning e Visão Computacional. Estou constantemente me atualizando nas tendências de tecnologia, pois acredito que inovação e aprendizado contínuo são fundamentais para o sucesso na área de TI. Busco uma oportunidade de estágio onde eu possa aplicar e expandir minhas habilidades, colaborar com uma equipe inovadora e contribuir para a criação de soluções que gerem impacto real. Estou comprometido com meu crescimento profissional e entusiasmado para fazer parte de um time que compartilhe a visão de transformação através da tecnologia.",
+      "description": "👋 Sou estudante de Ciência da Computação, autodidata e fluente em inglês, com experiência prática em Inteligência Artificial e desenvolvimento de software. Minha jornada acadêmica, combinada com minha curiosidade, me levou a explorar independentemente várias tecnologias, sempre buscando aprender e aplicar novas ferramentas que podem impactar positivamente o mundo ao nosso redor. Tenho habilidades sólidas em desenvolvimento de software e conhecimento avançado em técnicas de IA, como Machine learning, Processamento de Linguagem Natural (PLN) e Visão Computacional. Me mantenho atualizado com as últimas tendências tecnológicas pois acredito que a inovação e o aprendizado contínuo são essenciais para o sucesso na área de TI. Estou sempre em busca de aplicar e expandir minhas habilidades, colaborar com uma equipe inovadora e contribuir para a criação de soluções que gerem um impacto real. Estou comprometido com meu crescimento profissional e animado para me juntar a uma equipe que compartilha a visão de impulsionar a transformação por meio da tecnologia.",
       "section_name": {
         "about": "Sobre mim",
         "projects": "Projetos",
@@ -11,7 +11,7 @@
     },
 "projects": [
     {
-      "title": "Similaridade de Texto - NLP",
+      "title": "Similaridade de Texto - PLN",
       "startDate": "2022",
       "description": "Projeto sobre correção automática para questões discursivas. O projeto envolveu a análise de trabalhos relacionados e a implementação de diferentes técnicas de medidas de similaridade. Comparei o desempenho de diversas métricas de similaridade (como Cosine Similarity, Jaccard Index e Word Mover's Distance) utilizando diferentes modelos de representação vetorial, incluindo Bag of Words, TF-IDF e word embeddings.",
       "images": [
