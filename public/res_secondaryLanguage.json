@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Olá",
-      "description": "👋 Sou estudante de Ciência da Computação, autodidata e fluente em inglês, com experiência prática em Inteligência Artificial e desenvolvimento de software. Minha jornada acadêmica, combinada com minha curiosidade, me levou a explorar independentemente várias tecnologias, sempre buscando aprender e aplicar novas ferramentas que podem impactar positivamente o mundo ao nosso redor. Tenho habilidades sólidas em desenvolvimento de software e conhecimento avançado em técnicas de IA, como Machine learning, Processamento de Linguagem Natural (PLN) e Visão Computacional. Me mantenho atualizado com as últimas tendências tecnológicas pois acredito que a inovação e o aprendizado contínuo são essenciais para o sucesso na área de TI. Estou sempre em busca de aplicar e expandir minhas habilidades, colaborar com uma equipe inovadora e contribuir para a criação de soluções que gerem um impacto real. Estou comprometido com meu crescimento profissional e animado para me juntar a uma equipe que compartilha a visão de impulsionar a transformação por meio da tecnologia.",
+      "description": "👋 Sou estudante de Ciência da Computação, autodidata e fluente em inglês, com experiência prática em Inteligência Artificial e desenvolvimento de software. Minha jornada acadêmica, combinada com minha curiosidade, me levou a explorar independentemente várias tecnologias, sempre buscando aprender e aplicar novas ferramentas que podem impactar positivamente o mundo ao nosso redor. Tenho habilidades sólidas em desenvolvimento de software e conhecimento avançado em técnicas de IA, como Machine learning, Processamento de Linguagem Natural (PLN) e Visão Computacional. Me mantenho atualizado com as últimas tendências tecnológicas pois acredito que a inovação e o aprendizado contínuo são essenciais para o sucesso na área de TI. Estou sempre em busca de aplicar e expandir minhas habilidades, colaborar com uma equipe inovadora e contribuir para a criação de soluções que gerem um impacto real.",
       "section_name": {
         "about": "Sobre mim",
         "projects": "Projetos",
@@ -95,6 +95,23 @@
     }
   ],
     "experience": [
+      {
+        "empresa": "MedSafe",
+        "cargo": "Estagiário de Tecnologia",
+        "periodo": "01.2025 - atualmente",
+        "principaisTecnologias": [
+          "Python",
+          "React"
+        ],
+        "tecnologias": [
+          "Python",
+          "Pandas",
+          "Angular",
+          "TypeScript",
+          "LLMs"
+        ],
+        "descricao": "Como Estagiário de Tecnologia, atuei no desenvolvimento de software front-end usando Angular no sistema do Piauí Primeira Infância. Também trabalhei com limpeza e tratamento de dados utilizando Python e Pandas."
+      },
       {
         "company": "Jaguaracambé",
         "title": "Desenvolvedor",
