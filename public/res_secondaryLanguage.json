@@ -21,44 +21,51 @@
       "technologies": [
         {
           "class": "devicon-python-plain",
-          "name": "Python"
+          "name": "Python",
+          "isImage": false
         },
         {
           "class": "devicon-scikitlearn-plain",
-          "name": "Scikit Learn"
+          "name": "Scikit Learn",
+            "isImage": false
         },
         {
           "class": "devicon-pandas-plain",
-          "name": "Pandas"
+          "name": "Pandas",
+            "isImage": false
         }
       ]
     },
     {
-      "title": "Site Jaguaracambé",
-      "startDate": "2023",
-      "description": "Site desenvolvido usando Next.js.",
+      "title": "RAG app - Atas da UFPI",
+        "startDate": "2025",
+      "description": "Site desenvolvido com Streamlit! Este é um MVP (Produto Mínimo Viável) de uma aplicação RAG (Geração Aumentada por Recuperação) que utiliza Langchain para criar um sistema de perguntas e respostas baseado nas atas de reunião da Universidade Federal do Piauí (UFPI). A aplicação permite que os usuários façam perguntas relacionadas ao conteúdo das atas e recebam respostas relevantes com base nas informações contidas nos documentos.",
       "images": [
-        "images/portfolio/Jaguaracambe/jaguaracambe.png"
+        "images/portfolio/Jaguaracambe/RAG.png"
       ],
-      "url": "https://www.jaguaracambe.org/",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS"
-        }
-      ]
+      "url": "https://github.com/dataskeptic/talk-with-docs",
+        "technologies": [
+          {
+            "name": "Langchain",
+            "isImage": true,
+            "path": "images/langchain-icon.png" 
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python",
+            "isImage": false
+          },
+          {
+            "class": "devicon-streamlit-plain",
+            "name": "HTML",
+            "isImage": false
+          },
+          {
+            "path": "images/nlp.png",
+            "name": "'",
+            "isImage": true
+          }
+        ]
     },
     {
       "title": "Detector de Vagas de Estacionamento",
@@ -71,15 +78,18 @@
       "technologies": [
         {
           "class": "devicon-python-plain",
-          "name": "Python"
+          "name": "Python",
+            "isImage": false
         },
         {
           "class": "devicon-opencv-plain",
-          "name": "OpenCV"
+          "name": "OpenCV",
+            "isImage": false
         },
         {
           "class": "devicon-numpy-plain",
-          "name": "Numpy"
+          "name": "Numpy",
+            "isImage": false
         }
       ]
     }

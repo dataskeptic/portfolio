@@ -13,20 +13,39 @@ class ProjectDetailsModal extends Component {
       var description = this.props.data.description;
       var url = this.props.data.url;
       if (this.props.data.technologies) {
-        var tech = technologies.map((icons, i) => {
-          return (
-            <li className="list-inline-item mx-3" key={i}>
-              <span>
-                <div className="text-center">
-                  <i className={icons.class} style={{ fontSize: "300%" }}>
-                    <p className="text-center" style={{ fontSize: "30%" }}>
-                      {icons.name}
+        var tech = technologies.map((tech, i) => {
+          if (tech.isImage) {
+            return (
+              <li className="list-inline-item mx-3" key={i}>
+                <span>
+                  <div className="text-center">
+                    <img
+                      src={tech.path}
+                      alt={tech.name}
+                      style={{ width: "48px", height: "48px", marginBottom: "-6px" }}
+                    />
+                    <p className="text-center" style={{ fontSize: "100%" }}>
+                      {tech.name}
                     </p>
-                  </i>
-                </div>
-              </span>
-            </li>
-          );
+                  </div>
+                </span>
+              </li>
+            );
+          } else {
+            return (
+              <li className="list-inline-item mx-3" key={i}>
+                <span>
+                  <div className="text-center">
+                    <i className={tech.class} style={{ fontSize: "300%" }}>
+                      <p className="text-center" style={{ fontSize: "30%" }}>
+                        {tech.name}
+                      </p>
+                    </i>
+                  </div>
+                </span>
+              </li>
+            );
+          }
         });
         if (this.props.data.images) {
           var img = images.map((elem, i) => {
