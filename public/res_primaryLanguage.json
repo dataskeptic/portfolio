@@ -98,6 +98,23 @@
     ],
     "experience": [
       {
+        "company": "MedSafe",
+        "title": "Tech Intern",
+        "years": "01.2025 - present",
+        "mainTech": [
+          "Python",
+          "React"
+        ],
+        "technologies": [
+          "Python",
+          "Pandas",
+          "Angular",
+          "TypeScript",
+          "LLms"
+        ],
+        "description": "As a Tech Intern, I was involved in front-end software development and process automation. Also worked with data cleaning and processing using Python and Pandas."
+      },
+      {
         "company": "Jaguaracambé",
         "title": "Developer",
         "years": "10.2023 - present",
